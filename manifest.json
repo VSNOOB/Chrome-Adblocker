@@ -1,0 +1,13 @@
+{
+    "version": 1.0,
+    "manifest_version": 2,
+    "name": "Blocked",
+    "description": "Strong and Transperent adblocker",
+    "permissions": ["webRequest", "webequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    }
+    
+
+    
+}
